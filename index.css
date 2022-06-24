@@ -1,0 +1,160 @@
+body {
+    margin:0%;
+}
+
+h1{
+    margin-top:0px;
+    font-family: 'Sacramento', cursive;
+    font-style: italic;
+    font-size: 60px;
+    font-size:  90px;
+    color: #345B63;
+
+}
+
+p{
+    font-size:  20px;
+    color: #371B58;
+    margin-right: 300px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+
+}
+
+h2{
+    font-family: 'Potta One', cursive;
+}
+
+
+.top-section{
+    background-color:#8CC0DE;
+    margin-top: 0;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    
+}
+
+.web{
+    text-decoration: underline;
+}
+
+
+.top{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 300px;
+}
+
+.mountains {
+    height: 300px;
+    width: 300px;
+
+}
+.bottom{
+    height: 128;
+    width: 128;
+    position: absolute;
+    left: 400px;
+}
+
+
+.ani{
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+}
+h2 {
+    color: #345B63;
+
+}
+
+.hello {
+    font-size: 35px;
+
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 5px;
+    width:5%;
+    color:#345B63;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.skill-my {
+    font-size: 35px;
+}
+
+h3 {
+    color: #345B63;
+   
+     
+}
+
+.skill-my {
+    font-family: 'Potta One', cursive;
+    font-style: normal;
+    margin-bottom: 50px;
+
+}
+
+.skills {
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.skills-p {
+    margin-bottom: 100px;
+    margin-right: 0;
+
+}
+
+.pic {
+    float: left;
+    margin-right: 60px;
+    margin-left: 50px;
+    
+}
+.skills-guitar{
+    margin-left: 0;
+    margin-right: 0;
+}
+    
+.contact-p{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.skill-row {
+    text-align: left;
+}
+.guitar{
+    float: right;
+    margin-left: 50px;
+}
+.contact-me{
+    margin-bottom: 50px;
+}
+.btn{
+    background-color: #345B63;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin: 50px;
+  border-radius: 5%;
+
+}
+
+a {
+    color:white;
+}
+.bottom-container {
+background-color: #345B63;
+padding: 0;
+margin-bottom: 0;
+height: 20vh;
+}
+.footer-link {
+    padding-top: 40px;
+    margin: 50px 30px;
+}
